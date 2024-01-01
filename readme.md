@@ -11,7 +11,6 @@ A blog, short for weblog, is a frequently updated web page used for personal com
 - npm i express
 - npm i body-parser
 - npm i nodemon
-
 ```
 
 ### Languages and Tools
